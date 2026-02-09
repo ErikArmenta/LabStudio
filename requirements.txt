@@ -1,3 +1,5 @@
-mitosheet
+streamlit>=1.30.0
+mitosheet>=0.1.500
+altair<5.0.0
 pandas
-streamlit
+
